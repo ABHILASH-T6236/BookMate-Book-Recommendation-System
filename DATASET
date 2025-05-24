@@ -1,0 +1,6 @@
+Users: Contains the users. Note that user IDs (User-ID) have been anonymized and map to integers. ...
+Books: Books are identified by their respective ISBN. Invalid ISBNs have already been removed from the dataset. ...
+Ratings: Contains the book rating information
+
+U CAN ACCESS THE DATASET VIA : 
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset 
